@@ -36,7 +36,7 @@
 - 💬 Ask me about **AI , Machine Learning , Deep Learning , Computer Vision , Natural Language Processing and Big Data** ⚡
 
 
-- 📫 How to reach me **https://www.linkedin.com/in/mohamed-dahmani-temani/**
+- 📫 How to reach me **https://www.linkedin.com/in/mohamed-dahmani-temani/** **&** **https://zindi.africa/users/dahmoun/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohamed-dahmani-temani/details/experience/](https://www.linkedin.com/in/mohamed-dahmani-temani/details/experience/)
   
