@@ -36,14 +36,13 @@
 
 - 💬 Ask me about **AI , Machine Learning , Deep Learning , Computer Vision , Natural Language Processing and Big Data** ⚡
 
-
-- 📫 How to reach me **https://www.linkedin.com/in/mohamed-dahmani-temani/** **&** **https://zindi.africa/users/dahmoun** **&** **https://www.kaggle.com/mohameddehmanitemani**
+- 📫 How to reach me **https://www.linkedin.com/in/mohamed-dahmani-temani/** **&** **https://zindi.africa/users/dahmoun** **&** 
+**https://www.kaggle.com/mohameddehmanitemani**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohamed-dahmani-temani/details/experience/](https://www.linkedin.com/in/mohamed-dahmani-temani/details/experience/)
   
 - ⚡ Fun fact **I'm so Passionate about Football**
-
-</p>  
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-dahmani-temani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="temani mohamed dehmani" height="30" width="40" /></a>
