@@ -19,31 +19,29 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-<tr> 
-<td>
+
 - 🔭 I’m currently  **Data Science Engineering Student**
-</td>
+
 - 🌱 I’m currently **Data Enthusiast directing my learning towards AI**
-<td>  
+  
 - 🔻 I’m currently learning **NLP (Natural Language Processing)**
-</td>
+
 - 👯 I’m looking to collaborate on **Artificial Intelligence and Big Data projects**
-<td>
+
 - 🤝 I’m looking for help with **Preparing for the Google TensorFlow Developer Certificate**
-</td>
-<td>
+
+
 - 👨‍💻 All of my projects are available at [https://github.com/Mohameddehmanitemani20?tab=repositories](https://github.com/Mohameddehmanitemani20?tab=repositories)
-</td>
+
 - 💬 Ask me about **AI , Machine Learning , Deep Learning , Computer Vision , Natural Language Processing and Big Data** ⚡
 
-<td>
+
 - 📫 How to reach me **https://www.linkedin.com/in/mohamed-dahmani-temani/**
-</td>
+
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohamed-dahmani-temani/details/experience/](https://www.linkedin.com/in/mohamed-dahmani-temani/details/experience/)
-<td>  
+  
 - ⚡ Fun fact **I'm so Passionate about Football**
-</td>
-</tr> 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-dahmani-temani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="temani mohamed dehmani" height="30" width="40" /></a>
@@ -62,7 +60,7 @@
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.r-project.org/other-docs.html" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Light.svg" alt="R" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+ 
  </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohameddehmanitemani20&theme=onedark&row=2&column=3" alt="Mohameddehmanitemani20" /></a> </p>
